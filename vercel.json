@@ -1,0 +1,13 @@
+{
+    "rewrites": [
+      { "source": "/", "destination": "/home/index.html" },
+      { "source": "/sponzori-akce/", "destination": "/sponzori-akce/index.html" },
+      { "source": "/propozice/", "destination": "/propozice/index.html" },
+      { "source": "/prihlaseni/", "destination": "/prihlaseni/index.html" },
+      { "source": "/par-obrazku-z-trasy/", "destination": "/par-obrazku-z-trasy/index.html" },
+      { "source": "/novinky/", "destination": "/novinky/index.html" },
+      { "source": "/kontakt/", "destination": "/kontakt/index.html" },
+      { "source": "/komu-pomahame/", "destination": "/komu-pomahame/index.html" },
+      { "source": "/home/", "destination": "/home/index.html" }
+    ]
+  }
